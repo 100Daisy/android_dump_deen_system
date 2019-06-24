@@ -1,0 +1,7 @@
+#Using the format "packagename=1or2or3" to add one item
+#1(close), 2(open), 3(close when landscape, open when portrait)
+#com.google.android.apps.photos=1
+com.motorola.ts.camera=2
+com.motorola.launcher3=2
+android.view.cts=2
+com.google.android.apps.photos=3

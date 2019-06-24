@@ -1,0 +1,227 @@
+
+Modem ver: M8953_11.123.01.22R
+mot_s_hob_amss.c, 2181: s_hob_init
+mot_s_hob_stg.c, 196: RFS read finished - in 1173 ms
+mot_s_hob_stg.c, 325: ERR: Can't access HOB file, errno = 3
+mot_s_hob_stg.c, 326: ERR: read -2013622828 bytes
+
+Modem ver: M8953_11.123.01.22R
+mot_s_hob_amss.c, 828: s_hob_phase_check
+mot_s_hob_amss.c, 593: ERR: HOB NV 540 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 1184 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 1864 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 3691 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 4212 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 4953 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 4954 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 5459 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 5460 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 5461 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 5464 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 6578 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 6579 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 6683 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 6684 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 6735 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 6736 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 20179 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 20180 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 20309 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 20310 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 20419 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 20420 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 20825 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 20826 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 20883 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 20884 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 21648 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 21649 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 22982 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24226 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24228 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24230 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24232 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24233 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24243 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24248 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24250 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24251 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24252 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24253 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24255 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24256 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24964 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24965 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24966 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24967 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24972 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24973 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24974 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24975 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 26696 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 26697 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 26698 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 27779 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 27781 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 27783 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 27785 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 27786 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 27796 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 27810 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 27812 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 27814 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 28329 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 28330 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 28333 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 28334 inactive
+mot_s_hob_amss.c, 855: ERR: Found 67 NV items from HOB list that are not populated
+
+Modem ver: M8953_11.123.01.22R
+mot_s_hob_amss.c, 2181: s_hob_init
+mot_s_hob_stg.c, 196: RFS read finished - in 1338 ms
+mot_s_hob_stg.c, 325: ERR: Can't access HOB file, errno = 3
+mot_s_hob_stg.c, 326: ERR: read -2013622828 bytes
+
+Modem ver: M8953_11.123.01.22R
+mot_s_hob_amss.c, 828: s_hob_phase_check
+mot_s_hob_amss.c, 593: ERR: HOB NV 540 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 1184 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 1864 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 3691 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 4212 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 5459 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 5460 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 5461 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 5464 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 6578 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 6579 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 6683 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 6684 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 6735 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 6736 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 20179 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 20180 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 20309 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 20310 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 20419 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 20420 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 20825 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 20826 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 20883 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 20884 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 21648 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 21649 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 22982 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24226 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24228 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24230 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24232 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24233 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24243 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24248 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24250 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24251 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24252 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24253 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24255 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24256 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24964 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24965 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24966 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24967 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24972 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24973 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24974 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24975 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 26696 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 26697 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 26698 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 27779 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 27781 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 27783 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 27785 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 27786 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 27796 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 27810 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 27812 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 27814 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 28329 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 28330 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 28333 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 28334 inactive
+mot_s_hob_amss.c, 855: ERR: Found 65 NV items from HOB list that are not populated
+
+Modem ver: M8953_11.123.01.22R
+mot_s_hob_amss.c, 2181: s_hob_init
+mot_s_hob_stg.c, 196: RFS read finished - in 1325 ms
+mot_s_hob_stg.c, 325: ERR: Can't access HOB file, errno = 3
+mot_s_hob_stg.c, 326: ERR: read -2013622828 bytes
+
+Modem ver: M8953_11.123.01.22R
+mot_s_hob_amss.c, 828: s_hob_phase_check
+mot_s_hob_amss.c, 593: ERR: HOB NV 540 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 1184 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 1864 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 3691 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 4212 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 5459 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 5460 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 5461 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 5464 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 6578 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 6579 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 6683 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 6684 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 6735 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 6736 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 20179 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 20180 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 20309 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 20310 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 20419 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 20420 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 20825 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 20826 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 20883 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 20884 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 21648 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 21649 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 22982 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24226 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24228 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24230 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24232 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24233 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24243 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24248 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24250 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24251 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24252 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24253 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24255 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24256 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24964 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24965 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24966 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24967 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24972 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24973 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24974 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 24975 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 26696 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 26697 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 26698 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 27779 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 27781 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 27783 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 27785 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 27786 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 27796 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 27810 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 27812 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 27814 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 28329 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 28330 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 28333 inactive
+mot_s_hob_amss.c, 593: ERR: HOB NV 28334 inactive
+mot_s_hob_amss.c, 855: ERR: Found 65 NV items from HOB list that are not populated

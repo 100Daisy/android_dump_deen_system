@@ -1,0 +1,4 @@
+#Using the format "componentname=1or2" to add one item
+#1(close), 2(open)
+com.motorola.launcher3/com.android.launcher3.SettingsActivity=1
+com.motorola.ts.camera/com.android.camera.SettingsActivity=1
